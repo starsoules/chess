@@ -1,6 +1,6 @@
 # chess
 
-[![CI](https://github.com/NeoGeoOne/chess/actions/workflows/ci.yml/badge.svg)](https://github.com/NeoGeoOne/chess/actions/workflows/ci.yml)
+[![CI](https://github.com/starsoules/chess/actions/workflows/ci.yml/badge.svg)](https://github.com/starsoules/chess/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Chess in the browser as a static site. Play the computer from beginner level up to full-strength Stockfish,
@@ -84,7 +84,7 @@ than a thirtieth of its remaining clock. Player and puzzle ratings use FIDE-styl
 
 ## Contributing
 
-Bug reports and ideas are welcome as [issues](https://github.com/NeoGeoOne/chess/issues/new/choose).
+Bug reports and ideas are welcome as [issues](https://github.com/starsoules/chess/issues/new/choose).
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Security issues:
 see [SECURITY.md](SECURITY.md).
 
